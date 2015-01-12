@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gradle.helloworld.MessageServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-01-08T06:33:55" hostname="yuyongyu" time="0.001">
-  <properties/>
-  <testcase name="getMessage_ShouldReturnMessage" classname="com.gradle.helloworld.MessageServiceTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
