@@ -14,7 +14,7 @@ public class HelloWorld {
         System.out.println("the greeter say : " + greeter.sayHello());
 
         System.out.println();
-        
+
         LOGGER.info(greeter.sayHello());
         LOGGER.debug("debug info");
         LOGGER.warn("warn info");
