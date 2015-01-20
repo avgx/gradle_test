@@ -13,6 +13,8 @@ public class HelloWorld {
         Greeter greeter = new Greeter();
         System.out.println("the greeter say : " + greeter.sayHello());
 
+        System.out.println();
+        
         LOGGER.info(greeter.sayHello());
         LOGGER.debug("debug info");
         LOGGER.warn("warn info");
