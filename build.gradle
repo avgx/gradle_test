@@ -20,6 +20,6 @@ dependencies {
 
 //the name and version of jar file after build
 jar {
-    baseName = 'gradle-test'
+    baseName = 'gradle_test'
     version =  '0.1.0'
 }
